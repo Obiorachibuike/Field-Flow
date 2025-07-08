@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "trackingId": "FF1001-USA",
+    "recipient": {
+      "name": "John Doe",
+      "phone": "123-456-7890",
+      "address": "123 Main St, Anytown, USA 12345"
+    },
+    "status": "In Transit",
+    "weight": "2.5 kg",
+    "type": "Standard"
+  },
+  {
+    "id": "2",
+    "trackingId": "FF1002-CAN",
+    "recipient": {
+      "name": "Jane Smith",
+      "phone": "234-567-8901",
+      "address": "456 Oak Ave, Otherville, CAN M1M 1M1"
+    },
+    "status": "Delivered",
+    "weight": "1.0 kg",
+    "type": "Express"
+  },
+  {
+    "id": "3",
+    "trackingId": "FF1003-MEX",
+    "recipient": {
+      "name": "Carlos Garcia",
+      "phone": "345-678-9012",
+      "address": "789 Pine Ln, Somewhere, MEX 54321"
+    },
+    "status": "Pending",
+    "weight": "5.0 kg",
+    "type": "Standard"
+  },
+  {
+    "id": "4",
+    "trackingId": "FF1004-GBR",
+    "recipient": {
+      "name": "Emily White",
+      "phone": "456-789-0123",
+      "address": "101 Maple Rd, London, GBR SW1A 0AA"
+    },
+    "status": "Failed",
+    "weight": "0.5 kg",
+    "type": "Documents"
+  },
+  {
+    "id": "5",
+    "trackingId": "FF1005-DEU",
+    "recipient": {
+      "name": "Hans Schmidt",
+      "phone": "567-890-1234",
+      "address": "22 Birch Blvd, Berlin, DEU 10115"
+    },
+    "status": "In Transit",
+    "weight": "10.2 kg",
+    "type": "Heavy"
+  },
+  {
+    "id": "6",
+    "trackingId": "FF1006-AUS",
+    "recipient": {
+      "name": "Olivia Brown",
+      "phone": "678-901-2345",
+      "address": "33 Willow Way, Sydney, AUS 2000"
+    },
+    "status": "Delivered",
+    "weight": "3.1 kg",
+    "type": "Standard"
+  }
+]
